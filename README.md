@@ -1,4 +1,4 @@
-[![wubi](https://cloud.githubusercontent.com/assets/1455096/22741816/c97642b0-ee14-11e6-8aed-a7fd86852cd2.PNG)](http://getuikit.com/)
+[![wubi](https://cloud.githubusercontent.com/assets/1455096/22741816/c97642b0-ee14-11e6-8aed-a7fd86852cd2.PNG)](http://wubi.pro/)
 
 
 # wubi.pro
